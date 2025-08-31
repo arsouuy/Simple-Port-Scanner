@@ -4,3 +4,5 @@ This script is just a simple port scanner using Python with nmap.
 You run it, type the IP of your target (make sure it is a safe target), and it scans it.
 It shows if the host is up, what ports are open, and what services are running on them.
 I just used the arguments -sV -sC so it also tries to grab version info and run default scripts.
+
+
